@@ -1,2 +1,2 @@
-# fountation-site
-Get the Sit at [Leskeboy Web] [https://leskeboy.github.io/fountation-site]
+# Company Public Website
+Get the Sit at [Leskeboy Inc] [https://leskeboy.github.io/leskeboy-inc]
